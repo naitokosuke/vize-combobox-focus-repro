@@ -1,0 +1,11 @@
+{
+  "name": "vize-combobox-focus-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "vize lint --format plain --help-level none src"
+  },
+  "devDependencies": {
+    "vize": "0.476.0"
+  }
+}
